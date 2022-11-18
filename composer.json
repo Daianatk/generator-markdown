@@ -1,0 +1,16 @@
+{
+    "name": "dcampos/generador",
+    "autoload": {
+        "psr-4": {
+            "Dcampos\\Generador\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Day Campos"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^2.3"
+    }
+}
